@@ -1,0 +1,7 @@
+build/
+artifacts/
+.vs/
+*.user
+*.obj
+*.pdb
+__pycache__/
